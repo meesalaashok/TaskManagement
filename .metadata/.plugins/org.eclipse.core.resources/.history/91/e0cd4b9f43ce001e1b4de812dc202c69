@@ -1,0 +1,15 @@
+package com.java_project.example;
+
+public class Project1 {
+	String name;
+    String description;
+    String dueDate;
+	public Project1(String name, String description, String dueDate) {
+		super();
+		this.name = name;
+		this.description = description;
+		this.dueDate = dueDate;
+	}
+
+   
+}
